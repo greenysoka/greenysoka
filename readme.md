@@ -1,7 +1,7 @@
 # Hello there, I'm Greeny 👋 
 
 ### 🧠 About Me
-I'm an Austrian developer who spends way too many nights working on Bots, Websites, API's and designs. 
+I'm an Austrian developer who spends way too many nights working on Bots, Websites, API's and Designs. 
 I love building systems that *should* work — and most of the time, they actually do.
 In the meantime, I’m studying at a university 📘
 
@@ -16,8 +16,9 @@ Python | Flask | HTML | CSS | JS | SQLite | PHP | C#
 - 💻 **OS:** Windows 11 / Linux Mint
 
 ### 📫 Contact
-- 📧 greenysoka@pm.me  
-- 🌐 [greenysoka.icu](https://greenysoka.icu)
+- 📧 **E-Mail:** greenysoka@pm.me  
+- 🌐 **My Card Page:** [greenysoka.icu](https://greeny.soka.icu/)
+- 💬 **Discord:** @greenysoka
 
 ---
 
