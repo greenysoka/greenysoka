@@ -16,9 +16,9 @@ Python | Flask | HTML | CSS | JS | SQLite | PHP | C#
 - 💻 **OS:** Windows 11 / Linux Mint
 
 ### 📫 Contact
-- 📧 **E-Mail:** greenysoka@pm.me  
+- 📧 **E-Mail:** [greenysoka@pm.me](mailto:greenysoka@pm.me)
 - 🌐 **My Card Page:** [greenysoka.icu](https://greeny.soka.icu/)
-- 💬 **Discord:** @greenysoka
+- 💬 **Discord:** [@greenysoka](https://discord.com/users/673605199000240156)
 
 ---
 
