@@ -6,7 +6,7 @@ I love building systems that *should* work — and most of the time, they actual
 In the meantime, I’m studying (more or less voluntarily) at a university.
 
 ### ⚙️ Tech Stack
-```python
+```bash
 Python | Flask | HTML | CSS | JS | SQLite | PHP | C#
 ```
 
@@ -22,4 +22,4 @@ Python | Flask | HTML | CSS | JS | SQLite | PHP | C#
 
 ---
 
-> “I professionally develop bugs (and bots).”
+> I professionally develop bugs (and bots).
