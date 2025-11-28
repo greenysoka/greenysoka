@@ -13,13 +13,13 @@ In the meantime, I’m studying at a university 📘
 
 ### ⚙️ My Tech Stack
 ```bash
-Python | Flask | HTML | CSS | JS | SQLite | PHP | C#
+Python | Flask | FastAPI | HTML | CSS | JS | SQLite | MySQL | PHP | C#
 ```
 
 ### 🖥️ My Setup
 - 🧠 **CPU:** Ryzen 9 7950X  
 - 🎮 **GPU:** RTX 4080 SUPER  
-- 💻 **OS:** Windows 11 / Linux Mint
+- 💻 **OS:** Windows 11 / Linux Mint / Zorin OS
 
 ### 📫 Contact
 - 💬 **Discord:** [@greenysoka](https://discord.com/users/673605199000240156)
