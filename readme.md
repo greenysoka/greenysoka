@@ -6,22 +6,22 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 
-### 🧠 About Me
+### <About Me/>
 I'm an Austrian developer who spends way too many nights working on Bots, Websites, API's and Designs. 
 I love building systems that *should* work — and most of the time, they actually do.
 In the meantime, I’m studying at a university 📘
 
-### ⚙️ My Tech Stack
+### <My Tech Stack/>
 ```bash
 Python | Flask | FastAPI | HTML | CSS | JS | SQLite | MySQL | PHP | C#
 ```
 
-### 🖥️ My Setup
+### <My Setup/>
 - 🧠 **CPU:** Ryzen 9 7950X  
 - 🎮 **GPU:** RTX 4080 SUPER  
-- 💻 **OS:** Windows 11 / Linux Mint / Zorin OS
+- 💻 **OS:** Windows 11 | Linux Mint | Zorin OS | Fedora
 
-### 📫 Contact
+### <Contact/>
 - 💬 **Discord:** [@greenysoka](https://discord.com/users/673605199000240156)
 - 🌐 **My Card Page:** [greenysoka.icu](https://greeny.soka.icu/)
 - 📧 **E-Mail:** [greenysoka@pm.me](mailto:greenysoka@pm.me)
