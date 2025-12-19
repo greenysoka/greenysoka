@@ -18,9 +18,9 @@ Python | Flask | FastAPI | HTML | CSS | JS | SQLite | MySQL | PHP | C#
 ```
 
 ### My Setup/>
-- 🧠/> **CPU:** Ryzen 9 7950X  
+- 🔥/> **CPU:** Ryzen 9 7950X  
 - 🎮/> **GPU:** RTX 4080 SUPER  
-- 💻/> **OS:** Windows 11 | Linux Mint | Zorin OS | Fedora
+- 💻/> **OS:** Windows 11 | Zorin OS | Fedora
 
 ### Contact/>
 - 💬/> **Discord:** [@greenysoka](https://discord.com/users/673605199000240156)
