@@ -5,8 +5,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![](https://streak-stats.demolab.com?user=greenysoka&theme=tokyonight&hide_border=true)
-
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=greenysoka&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### About Me/>
 I'm an Austrian developer who spends way too many nights working on Bots, Websites, API's and Designs. 
