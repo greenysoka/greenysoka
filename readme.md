@@ -8,22 +8,22 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=greenysoka&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### About Me/>
-I'm an Austrian developer who spends way too many nights working on Bots, Websites, API's and Designs. 
+I'm an Austrian Developer who spends way too many nights working on Bots, Websites, API's and Designs. 
 I love building systems that *should* work — and most of the time, they actually do.
 
 ### My Tech Stack/>
 ```bash
-Python | Flask | FastAPI | HTML | CSS | JS | SQLite | MySQL | PHP | C#
+Python | PyCord | Flask | FastAPI | HTML | CSS | JS | SQLite | MySQL | PHP | C#
 ```
 
 ### My Setup/>
 - 🔥/> **CPU:** Ryzen 9 7950X  
 - 🎮/> **GPU:** RTX 4080 SUPER  
-- 💻/> **OS:** Windows 11 | Zorin OS | Fedora
+- 💻/> **OS:** Fedora (<3) | Zorin OS | Windows 11
 
 ### Contact/>
 - 💬/> **Discord:** [@greenysoka](https://discord.com/users/673605199000240156)
-- 🌐/> **My Card Page:** [greenysoka.icu](https://greeny.soka.icu/)
+- 🌐/> **My Card Page:** [https://greeny.soka.icu](https://greeny.soka.icu/)
 - 📧/> **E-Mail:** [greenysoka@pm.me](mailto:greenysoka@pm.me)
 
 
