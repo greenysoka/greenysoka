@@ -10,6 +10,8 @@
 ### About Me/>
 I'm an Austrian Developer who spends way too many nights working on Bots, Websites, API's and Designs. 
 I love building systems that *should* work — and most of the time, they actually do.
+Most of my repos are private because I don't feel comfortable with sharing my code usually. But I try to improve and set more projects public.
+Don't expect the most professional setups tho xD
 
 ### My Tech Stack/>
 ```bash
@@ -17,9 +19,9 @@ Python | PyCord | Flask | FastAPI | HTML | CSS | JS | SQLite | MySQL | PHP | C#
 ```
 
 ### My Setup/>
-- 🔥/> **CPU:** Ryzen 9 7950X  
-- 🎮/> **GPU:** RTX 4080 SUPER  
-- 💻/> **OS:** Fedora (<3) | Zorin OS | Windows 11
+- 🔥/> **CPU:** AMD Ryzen 9 7950X  
+- 🎮/> **GPU:** NVIDIA GeForce RTX 4080 SUPER  
+- 💻/> **OS:** Fedora <3 (GNOME & KDE) 
 
 ### Contact/>
 - 💬/> **Discord:** [@greenysoka](https://discord.com/users/673605199000240156)
