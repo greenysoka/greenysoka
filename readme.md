@@ -20,8 +20,8 @@ Python | PyCord | Flask | FastAPI | HTML | CSS | JS | SQLite | MySQL | PHP | C#
 
 ### My Setup/>
 - 🔥/> **CPU:** AMD Ryzen 9 7950X  
-- 🎮/> **GPU:** NVIDIA GeForce RTX 4080 SUPER  
-- 💻/> **OS:** Fedora <3 (GNOME & KDE) 
+- 🎮/> **GPU:** ~ waiting for a new one...
+- 💻/> **OS:** Fedora <3 (KDE) 
 
 ### Contact/>
 - 💬/> **Discord:** [@greenysoka](https://discord.com/users/673605199000240156)
