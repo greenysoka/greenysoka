@@ -25,8 +25,7 @@ Python | PyCord | Flask | FastAPI | HTML | CSS | JS | SQLite | MySQL | PHP | C#
 
 ### Contact/>
 - 💬/> **Discord:** [@greenysoka](https://discord.com/users/673605199000240156)
-- 🌐/> **My Card Page:** [https://greeny.soka.icu](https://greeny.soka.icu/)
-- 📧/> **E-Mail:** [greenysoka@pm.me](mailto:greenysoka@pm.me)
+- 📧/> **E-Mail:** [greeny@soka.icu](mailto:greeny@soka.icu)
 
 
 ---
