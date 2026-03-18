@@ -10,34 +10,40 @@
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=greenysoka&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+---
+
 ### About Me/>
 I'm a 19y/o Austrian Developer who spends way too many nights working on Bots, Websites, API's and Designs. 
 I love building systems that *should* work — and most of the time, they actually do.
 Most of my repos are private because I don't feel comfortable with sharing my code usually. But I try to improve and set more projects public.
 Don't expect the most professional setups tho xD
 
+---
+
 ### My Tech Stack/>
 ```bash
 Python | PyCord | Flask | FastAPI | HTML | CSS | JS | SQLite | MySQL | PHP | C#
 ```
+
+---
 
 ### My Setup/>
 
 **🖥️/> Desktop**
 - /> **CPU:** AMD Ryzen 9 7950X
 - /> **GPU:** ~ waiting for a new one...
+- /> **RAM:** 32GB DDR5
 - /> **OS:** Fedora KDE <3
 
-**💻/> Laptop** *(Razer Blade 15)*
+**💻/> Laptop** *(Razer Blade 15 Advanced)*
 - /> **CPU:** Intel Core i7-11800H
 - /> **GPU:** NVIDIA RTX 3070
+- /> **RAM:** 32GB DDR4
 - /> **OS:** Fedora GNOME <3
 
 ### Contact/>
-- 💬/> **Discord:** [@greenysoka](https://discord.com/users/673605199000240156)
-- 📧/> **E-Mail:** [greeny@soka.icu](mailto:greeny@soka.icu)
+- /> **Discord:** [@greenysoka](https://discord.com/users/673605199000240156)
+- /> **E-Mail:** [greeny@soka.icu](mailto:greeny@soka.icu)
 
-
----
 
 > I professionally develop bugs (and bots).
