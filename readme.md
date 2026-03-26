@@ -31,11 +31,11 @@ Python | PyCord | Flask | FastAPI | HTML | CSS | JS | SQLite | MySQL | PHP | C#
 
 **🖥️/> Desktop**
 - /> **CPU:** AMD Ryzen 9 7950X
-- /> **GPU:** ~ waiting for a new one...
+- /> **GPU:** AMD Radeon RX 7900 XTX
 - /> **RAM:** 32GB DDR5
 - /> **OS:** Fedora KDE <3
 
-**💻/> Laptop** *(Razer Blade 15 Advanced)*
+**💻/> Laptop** *(Razer Blade 15 Advanced 2021)*
 - /> **CPU:** Intel Core i7-11800H
 - /> **GPU:** NVIDIA RTX 3070
 - /> **RAM:** 32GB DDR4
