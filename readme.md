@@ -32,14 +32,21 @@ Python | PyCord | Flask | FastAPI | HTML | CSS | JS | SQLite | MySQL | PHP | C#
 **🖥️/> Desktop PC**
 - /> **CPU:** AMD Ryzen 7 9800X3D
 - /> **GPU:** AMD Radeon RX 9070 XT
+- /> **MAINBOARD:** ASUS TUF B850-BTF
 - /> **RAM:** 32GB DDR5 6000Mhz CL30
 - /> **OS:** Fedora (KDE) <3
 
 **💻/> Laptop** *(Razer Blade 15 Advanced 2021)*
 - /> **CPU:** Intel Core i7-11800H
 - /> **GPU:** NVIDIA RTX 3070
-- /> **RAM:** 32GB DDR4
+- /> **RAM:** 32GB DDR4 3200Mhz
 - /> **OS:** Fedora (GNOME) <3
+
+**🔬/> PC Testbench**
+- /> **CPU:** AMD Ryzen 3 2200G
+- /> **GPU:** AMD Radeon RX 570**
+- /> **MAINBOARD:** AsRock B450M-Pro4
+- /> **RAM:**: 16GB DDR4 2400Mhz
 
 ### Contact/>
 - /> **Discord:** [@greenysoka](https://discord.com/users/673605199000240156)
