@@ -44,7 +44,7 @@ Python | PyCord | Flask | FastAPI | HTML | CSS | JS | SQLite | MySQL | PHP | C#
 
 **🔬/> PC Testbench**
 - /> **CPU:** AMD Ryzen 3 2200G
-- /> **GPU:** AMD Radeon RX 570**
+- /> **GPU:** AMD Radeon RX 570 / Nvidia Geforce GTX 1060 6GB
 - /> **MAINBOARD:** AsRock B450M-Pro4
 - /> **RAM:**: 16GB DDR4 2400Mhz
 
