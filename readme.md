@@ -39,14 +39,15 @@ Python | PyCord | Flask | FastAPI | HTML | CSS | JS | SQLite | MySQL | PHP | C#
 **💻/> Laptop** *[Razer Blade 15 Advanced 2021]*
 - /> **CPU:** Intel Core i7-11800H
 - /> **GPU:** NVIDIA RTX 3070
-- /> **RAM:** 32GB DDR4 3200Mhz
+- /> **RAM:** 16GB DDR4 3200Mhz CL22
 - /> **OS:** Fedora (GNOME) <3
 
 **🔬/> PC Testbench**
 - /> **CPU:** AMD Ryzen 3 2200G
-- /> **GPU:** AMD Radeon RX 570 / Nvidia Geforce GTX 1060 6GB
+- /> **GPU:** AMD Radeon RX 570 / AMD Radeon RX 580 / Nvidia Geforce GTX 1060 6GB
 - /> **MAINBOARD:** AsRock B450M-Pro4
 - /> **RAM:** 16GB DDR4 2400Mhz
+- /> **OS:** Windows 10
 
 ### Contact/>
 - /> **Discord:** [@greenysoka](https://discord.com/users/673605199000240156)
