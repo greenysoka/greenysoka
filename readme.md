@@ -15,6 +15,7 @@
 ### About Me/>
 I'm a 19y/o Austrian Developer who spends way too many nights working on Bots, Websites, API's and Designs. 
 I love building systems that *should* work — and most of the time, they actually do.
+Currently focused on building and expanding [LUCY](https://lucy.fyi) — my personal AI companion and infrastructure control system (who committed this line herself :>).
 Most of my repos are private because I don't feel comfortable with sharing my code usually. But I try to improve and set more projects public.
 Don't expect the most professional setups tho xD
 
